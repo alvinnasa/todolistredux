@@ -1,0 +1,45 @@
+[{
+    "id": 1,
+    "task": "Bangun Jam 7",
+    "complete": false
+  }, {
+    "id": 2,
+    "task": "Merapihkan Tempat Tidur",
+    "complete": false
+  }, {
+    "id": 3,
+    "task": "Mandi",
+    "complete": false
+  }, {
+    "id": 4,
+    "task": "Membantu ibu merapihkan rumah",
+    "complete": false
+  }, {
+    "id": 5,
+    "task": "Menonton TV",
+    "complete": false
+  }, {
+    "id": 6,
+    "task": "Belanja dengan ibu",
+    "complete": false
+  }, {
+    "id": 7,
+    "task": "Mengerjakan PR",
+    "complete": false
+  }, {
+    "id": 8,
+    "task": "menjaga Adik",
+    "complete": false
+  }, {
+    "id": 9,
+    "task": "Makan siang",
+    "complete": false
+  }, {
+    "id": 10,
+    "task": "tidur siang",
+    "complete": false
+  }, {
+    "id": 20,
+    "task": "Mandi Sore",
+    "complete": false
+  }]
